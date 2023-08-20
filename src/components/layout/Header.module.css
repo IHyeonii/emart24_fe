@@ -1,0 +1,22 @@
+.headerWrap {
+  display: flex;
+  width: 100%;
+  align-items:center;
+  justify-content: space-between;
+  padding: 15px 17px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.logo img {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.login img {
+  position: relative;
+}
+
+.logout {
+  border: none;
+  background-color: white;
+}
